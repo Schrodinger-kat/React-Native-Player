@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\de6bbed9cd24488cf2186c119332ef2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ed2cbf95216db5cf2709d6cc4f90b21c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fe0ee66d94f79d6f04ce060d04f1df5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8c9cc20f0985fc5b348fd562c356ccd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e2b8eb2d72342110cedf60c98903e4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d1659d3a36a268d78f209f98556c3e6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4508add80f43fb9142facf7db51f7821\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\e062f35d0bb56889d015cf70eee958b9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\1a4a0c0e05d724bb1f4796980a80875c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\53b522cfa924520a7da9d46415290bfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9e3e18ba6e877a6c5ff034fca9c2c912\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\789aca64e8d425e07144c8ac7669c6f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\cd4992f6b7bb06f5f63b1749f09bbeac\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\4f80483aaeee7d6362f89236dc041742\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c3dab5eff89d7914d551745015da2b11\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a1bfb7332903a775a306bc0d1745afca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1a91ca8ec5960f807c86c2a718469c17\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1754999198ddc449109f9f48ad9c58e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eaa2a8376620bf93bd95d52c1dac7086\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\cd4992f6b7bb06f5f63b1749f09bbeac\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\cd4992f6b7bb06f5f63b1749f09bbeac\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\4f80483aaeee7d6362f89236dc041742\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\4f80483aaeee7d6362f89236dc041742\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.blackboardradiocurieapp.MainActivity
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\589f0733e59a2f7293654daf7874c259\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\de6bbed9cd24488cf2186c119332ef2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\de6bbed9cd24488cf2186c119332ef2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ed2cbf95216db5cf2709d6cc4f90b21c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ed2cbf95216db5cf2709d6cc4f90b21c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fe0ee66d94f79d6f04ce060d04f1df5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fe0ee66d94f79d6f04ce060d04f1df5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8c9cc20f0985fc5b348fd562c356ccd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8c9cc20f0985fc5b348fd562c356ccd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e2b8eb2d72342110cedf60c98903e4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e2b8eb2d72342110cedf60c98903e4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d1659d3a36a268d78f209f98556c3e6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d1659d3a36a268d78f209f98556c3e6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4508add80f43fb9142facf7db51f7821\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4508add80f43fb9142facf7db51f7821\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\e062f35d0bb56889d015cf70eee958b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\e062f35d0bb56889d015cf70eee958b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\1a4a0c0e05d724bb1f4796980a80875c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\1a4a0c0e05d724bb1f4796980a80875c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\53b522cfa924520a7da9d46415290bfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\53b522cfa924520a7da9d46415290bfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9e3e18ba6e877a6c5ff034fca9c2c912\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9e3e18ba6e877a6c5ff034fca9c2c912\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\789aca64e8d425e07144c8ac7669c6f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\789aca64e8d425e07144c8ac7669c6f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\cd4992f6b7bb06f5f63b1749f09bbeac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\cd4992f6b7bb06f5f63b1749f09bbeac\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c3dab5eff89d7914d551745015da2b11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c3dab5eff89d7914d551745015da2b11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a1bfb7332903a775a306bc0d1745afca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a1bfb7332903a775a306bc0d1745afca\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1a91ca8ec5960f807c86c2a718469c17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1a91ca8ec5960f807c86c2a718469c17\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1754999198ddc449109f9f48ad9c58e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1754999198ddc449109f9f48ad9c58e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eaa2a8376620bf93bd95d52c1dac7086\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jishn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eaa2a8376620bf93bd95d52c1dac7086\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\jishn\Desktop\BlackBoardRadioCurieApp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

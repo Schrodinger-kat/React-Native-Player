@@ -1,0 +1,3 @@
+rootProject.name = 'BlackBoardRadioCurieApp'
+
+include ':app'
